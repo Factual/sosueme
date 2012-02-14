@@ -10,7 +10,7 @@
 
    Then your app could do this:
    ...
-   (conf/load-file! \"myfile.clj\")
+   (conf/load-file! \"myconf.clj\")
    (let [host (conf/get :host)] ... )"
 
   (:use [sosueme.io :as sio])
