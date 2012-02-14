@@ -21,7 +21,7 @@ The io package provides utility functions for io.
 Slurps content from the classpath. For example:
 
 ````clojure
-(slurp-cp "somefile.txt"
+(slurp-cp "somefile.txt")
 ````
 
 ## License
