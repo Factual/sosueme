@@ -8,4 +8,4 @@
   [f]
   (let [loader (java.net.URLClassLoader. (into-array [(jio/as-url (fs/file f))]))]
     (when-let [res (jio/resource f loader)]
-      (slurp ))))
+      (slurp res))))
