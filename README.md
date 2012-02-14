@@ -7,10 +7,14 @@ The jar is available on Clojars at http://clojars.org/factual/sosueme .
 Include it in your project.clj :dependencies:
 
 ````clojure
-[factual/sosueme "0.0.1"]
+[factual/sosueme "0.0.2"]
 ````
 
 ## Usage
+
+### conf
+
+Simple convenience functions for loading in file and resource based configuration data.
 
 ### io
 
