@@ -41,7 +41,7 @@
   (def ^:dynamic *conf* (merge *conf* (load-when path))))
 
 (defn get
-  "Returns the value at key k in the configuration that has been laoded."
+  "Returns the value at key k in the configuration that has been loaded."
   [k]
   (*conf* k))
 
