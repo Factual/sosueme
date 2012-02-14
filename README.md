@@ -2,9 +2,10 @@ sosueme (pronounced "So sue me!") is a collection of Clojure utilities for thing
 
 ## Setup
 
-The jar is available at http://clojars.org/factual/sosueme
+The jar is available on Clojars at http://clojars.org/factual/sosueme .
 
-Include it in your project.clj :dependencies like this:
+Include it in your project.clj :dependencies:
+
 ````clojure
 [factual/sosueme "0.0.1"]
 ````
@@ -17,7 +18,7 @@ The io package provides utility functions for io.
 
 #### slurp-cp
 
-Slurps content from the classpath. For exaple:
+Slurps content from the classpath. For example:
 
 ````clojure
 (slurp-cp "somefile.txt"
