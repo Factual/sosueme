@@ -11,7 +11,7 @@
    Then your app could do this:
    ...
    (conf/load-file! \"myconf.clj\")
-   (let [host (conf/get :host)] ... )"
+   (let [host (conf/get-key :host)] ... )"
 
   (:use [sosueme.io :as sio])
   (:use [fs.core :only (exists?)])
@@ -40,7 +40,7 @@
   [path]
   (def ^:dynamic *conf* (merge *conf* (load-when path))))
 
-(defn get
+(defn get-key
   "Returns the value at key k in the configuration that has been loaded."
   [k]
   (*conf* k))

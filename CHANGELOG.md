@@ -1,3 +1,7 @@
+## 0.0.3
+
+Changed name of conf/get to conf/get-key
+
 ## 0.0.2
 
 * Added conf namespace, with basic configuration file/resources conveniences
