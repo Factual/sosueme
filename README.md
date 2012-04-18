@@ -7,10 +7,28 @@ The jar is available on Clojars at http://clojars.org/factual/sosueme .
 Include it in your project.clj :dependencies:
 
 ````clojure
-[factual/sosueme "0.0.3"]
+[factual/sosueme "0.0.4"]
 ````
 
 ## Usage
+
+### add to your namespace
+
+````clojure
+(:require [sosueme.time :as time])
+````
+
+### time
+
+Time functionality
+
+#### now
+
+#### minutes-ago
+
+````clojure
+(minutes-ago 15)
+````
 
 ### conf
 

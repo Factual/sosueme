@@ -1,6 +1,10 @@
+## 0.0.4
+
+* Added time ns, with now and minutes-ago
+
 ## 0.0.3
 
-Changed name of conf/get to conf/get-key
+* Changed name of conf/get to conf/get-key
 
 ## 0.0.2
 
