@@ -14,7 +14,7 @@ Include it in your project.clj :dependencies:
 
 Sosueme provides the following functionalily, organized by namesapce:
 
-## <tt>conf</tt>
+## conf namespace
 
 Simple convenience functions for loading in file and resource based configuration data.
 
@@ -46,19 +46,19 @@ Returns all configuration data that was loaded via <tt>load-file!</tt>.
 Say you have a file called myconf.clj with this content...
 
 ````clojure
-{:host \"my.server.com\"
+{:host "my.server.com"
  :port 8081}
 ````
 
 ...then your app could do this:
 
 ````clojure
-(conf/load-file! \"myconf.clj\")
+(conf/load-file! "myconf.clj")
 (let [host (conf/get-key :host)]
   ... )
 ````
 
-## <li><tt>io</tt>
+## io namespace
 
 I/O stuff, e.g. load content from the classpath.
 
@@ -70,7 +70,7 @@ Slurps content from the classpath. Example:
 (slurp-cp "somefile.txt")
 ````
 
-## <tt>net</tt>
+## net namespace
 
 Nnetworking stuff, e.g. get local hostname.
 
@@ -78,7 +78,7 @@ Nnetworking stuff, e.g. get local hostname.
 
 Returns your local host name.
 
-## <tt>sys</tt>
+## sys namespace
 
 System stuff, e.g. get current process id.
 
@@ -86,7 +86,7 @@ System stuff, e.g. get current process id.
 
 Returns the current process's PID, as a String.
 
-## <tt>time</tt>
+## time namespace
 
 Time stuff, e.g. get Unix epoch value for "25 minutes ago".
 
