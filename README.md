@@ -67,19 +67,8 @@ Hawaiian style functions!
 Example:
 
 ````clojure
-> (println (apply str (repeatedly 12 #(str (newname) "\n"))))
-nainini
-paiwaipei
-nikiwai
-nawilu
-winenu
-pinaku
-leinai
-honaimai
-heimaiho
-munupei
-wainei
-peikani
+> (repeatedly 6 newname)
+("kiwihei" "nehe" "naimaiku" "lahehei" "wenani" "haikimi")
 ````
 
 ## io namespace
