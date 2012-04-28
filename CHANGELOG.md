@@ -1,3 +1,7 @@
+## 0.0.6
+
+ * Added hawaii ns, with newname
+
 ## 0.0.5
 
  * Added sys ns, with pid

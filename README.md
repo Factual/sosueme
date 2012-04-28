@@ -7,7 +7,7 @@ The jar is available on Clojars at http://clojars.org/factual/sosueme .
 Include it in your project.clj :dependencies:
 
 ````clojure
-[factual/sosueme "0.0.4"]
+[factual/sosueme "0.0.6"]
 ````
 
 # Contents
@@ -56,6 +56,30 @@ Say you have a file called myconf.clj with this content...
 (conf/load-file! "myconf.clj")
 (let [host (conf/get-key :host)]
   ... )
+````
+
+## hawaii namespace
+
+Hawaiian style functions!
+
+### <tt>newname</tt>
+
+Example:
+
+````clojure
+> (println (apply str (repeatedly 12 #(str (newname) "\n"))))
+nainini
+paiwaipei
+nikiwai
+nawilu
+winenu
+pinaku
+leinai
+honaimai
+heimaiho
+munupei
+wainei
+peikani
 ````
 
 ## io namespace
