@@ -7,9 +7,9 @@
 ;; given a sample of words, create a model which will generate words like them
 
 (def wordsets [:hawaiian-places :boys-names :girls-names])
+
 (def word-files
-  (let [full-path #(str (java.io.File. (.getParent (java.io.File. *file*))
-                                       (str (java.io.File. "data" (name %)))) ".txt")]
+  (let [full-path #(str (first (s/split *file* #"/src/" 2)) "/data/" (name %) ".txt")]
     (into {} (for [ws wordsets] [ws (full-path ws)]))))
 
 (defn read-lines [uri]
@@ -41,4 +41,10 @@
     (s/capitalize (apply str
                          (repeatedly (rand-nth lengths) #(rand-nth all-pieces))))))
 
-;; (repeatedly 5 #(remix (words :hawaiian-places) split-by-syllables))
+(defn print-n [n dataset-name]
+  (dorun (map println (repeatedly n #(remix (words dataset-name) split-by-syllables)))))
+
+(comment
+  (print-n 20 :hawaiian-places)
+  (print-n 20 :boys-names)
+  (print-n 20 :girls-names))
