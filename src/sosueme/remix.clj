@@ -33,13 +33,20 @@
 (defn split-by-syllables [word]
   (s/split word #"(?<=[aeiou])(?=[bcdfghjklmnpqrstvwxyz])"))
 
+(defn remix-aux
+  [pieces-seq lengths]
+  ;; syllable-position-blind sampling
+  #_ (let [all-pieces (apply concat pieces-seq)]
+       (repeatedly (rand-nth lengths) #(rand-nth all-pieces)))
+  ;; syllable-position-aware sampling
+  (for [k (range 0 (rand-nth lengths))] (nth (rand-nth pieces-seq) k nil)))
+
 (defn remix
-  [words splitter]
-  (let [word-pieces (map splitter words)
-        lengths (map count word-pieces)
-        all-pieces (apply concat word-pieces)]
+  [items splitter]
+  (let [pieces-seq (map splitter items)
+        lengths (map count pieces-seq)]
     (s/capitalize (apply str
-                         (repeatedly (rand-nth lengths) #(rand-nth all-pieces))))))
+                         (remix-aux pieces-seq lengths)))))
 
 (defn print-n [n dataset-name]
   (dorun (map println (repeatedly n #(remix (words dataset-name) split-by-syllables)))))
