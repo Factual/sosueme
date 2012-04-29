@@ -1,0 +1,751 @@
+;; from http://en.wikipedia.org/wiki/List_of_places_in_Hawaii
+;;Place|County Hawaii|Zip code 57932
+Ahualoa|Hawaii     |96727
+Ahualoa Homesteads|Hawaii|96727
+Ahuimanu|Honolulu
+Aiea|Honolulu|96701
+Aiea Heights|Honolulu|96701
+Aikahi|Honolulu|96734
+ʻAina Haina|Honolulu|96821
+Ainaloa|Hawaii|96760
+Ainapo|Hawaii
+Airport Village|Maui
+Akona|Hawaii
+Akupu|Honolulu
+Alabama Village|Maui|96784
+Alasaki Camp|Hawaii|96774
+Alewa Heights|Honolulu
+Aliamanu|Honolulu
+Aliamanu Military Reservation|Honolulu
+Amauulu Camps|Hawaii|96720
+Anaehoʻomalu|Hawaii
+Anahola|Kauai|96703
+Anahola-Kamalomalo|Kauai
+Anaki|Kauai
+ʻĀpua|Hawaii
+Auwaiolimu-Kalawahine|Honolulu
+Barbers Point Naval Air Station|Honolulu|96862
+Bellows Air Force Station|Honolulu|96795
+Black Sand Beach|Hawaii|96778
+Brigham Young University–Hawaii|Honolulu|96762
+Camp 106|Hawaii|96758
+Camp 17|Hawaii
+Camp H.M. Smith|Honolulu|96867
+Camp Smith|Honolulu|96861
+Captain Cook|Hawaii|96704
+Central Power Plant Village|Maui|96761
+Chinatown|Honolulu|96817
+Chin Chuck|Hawaii|96710
+Church College of Hawaii|Honolulu
+City of Refuge|Hawaii
+Coconut Grove|Honolulu|96734
+Cod Fish Village|Maui|96779
+Coral Gardens|Honolulu|96744
+Corn Mill Camp|Maui
+Crater Maui|Maui|96761
+Crater Village|Maui
+Crestview|Honolulu|96797
+Diamond Head|Honolulu|96816
+Dowsett Highlands|Honolulu
+Eden Roc|Hawaii|96771
+Eight and One-half Mile Camp|Hawaii|96794
+Eightmile Camp|Hawaii|96794
+Elee Landing|Kauai
+Eleele|Kauai|96705
+Elevenmile Homestead|Hawaii|96760
+Ewa|Honolulu|96706
+Ewa Beach|Honolulu|96706
+Ewa Gentry|Honolulu|96706
+Ewa Villages|Honolulu|96706
+Fern Acres|Hawaii|96771
+Fernandez Village|Honolulu|96706
+Fern Forest|Hawaii|96785
+Filipino Camp|Maui
+Ford Island|Honolulu|96818
+Fort DeRussy|Honolulu|96815
+Fort Ruger|Honolulu|96816
+Fort Shafter|Honolulu|96819
+Foster Village|Honolulu|96818
+General Lyman Field,Hilo Airport|Hawaii|96720
+Glenwood|Hawaii|96785
+Haaheo|Hawaii|96720
+Haena|Kauai|96714
+Haena-Wainiha|Kauai
+Haiku|Maui|96708
+Haiku-Pauwela|Maui|96708
+Haina|Hawaii|96727
+Hakalau|Hawaii|96710
+Halaula|Hawaii|96755
+Halawa|Hawaii|96711
+Halawa|Honolulu|96701
+Halawa|Maui
+Halawa Heights|Honolulu|96701
+Halawa Hills|Honolulu|96701
+Haleaha|Honolulu|96717
+Haleakala National Park|Maui|96768
+Hale Homaha|Kauai
+Haleiwa|Honolulu|96712
+Haleiwa Army Beach|Honolulu
+Halena|Maui
+Hale Pili|Hawaii
+Halepiula|Hawaii
+Haliimaile|Maui|96787
+Hamakuapoko|Maui
+Hamoa|Maui|96713
+Hana|Maui|96713
+Hanaipoe|Hawaii
+Hanalei|Kauai|96714
+Hanamaulu|Kauai|96715
+Hanapepe|Kauai|96716
+Haou|Maui|96713
+Happy Valley|Maui|96793
+Hauula|Honolulu|96717
+Hawaiian Acres|Hawaii|96760
+Hawaiian Beaches|Hawaii|96778
+Hawaiian Ocean View|Hawaii|96737
+Hawaiian Paradise Park|Hawaii|96749
+Hawaiian-Spanish Village|Maui|96779
+Hawaiian Village|Maui|96779
+Hawaii Kai|Honolulu|96825
+Hawaii Volcanoes National Park|Hawaii|96718
+Hawi|Hawaii|96719
+Hawi Camp 17|Hawaii|96719
+Heeia|Honolulu|96744
+Helemano Radio Station|Honolulu|96859
+Hickam Air Force Base|Honolulu|96818
+Hickam Housing|Honolulu|96824
+Highway Village|Hawaii|96728
+Hikapoloa|Hawaii
+Hilea|Hawaii
+Hilo|Hawaii|96720
+Hoaeae|Honolulu|96797
+Hoea|Hawaii|96719
+Hoea Camp|Hawaii
+Hokamahoe House Lot|Hawaii|96764
+Hokumahoe|Hawaii
+Hokuula|Maui
+Holualoa|Hawaii|96725
+Homeland|Honolulu
+Homestead|Kauai
+Honalo|Hawaii
+Honaunau|Hawaii|96726
+Honaunau-Napoʻopoʻo|Hawaii
+Honohina|Hawaii|96710
+Honokaʻa|Hawaii|96727
+Honokahua|Maui|96761
+Honokaia|Hawaii
+Honokai Hale|Honolulu
+Honokohau|Hawaii|96725
+Honokowai|Maui|96761
+Honolua|Maui
+Honolulu|Honolulu|96801 - 96839
+Honolulu International Airport|Honolulu|96819
+Honomaele|Maui
+Honomakau|Hawaii|96755
+Honomalino|Hawaii|96704
+Honomu|Hawaii|96728
+Honomu-Kuhua|Hawaii
+Honopu|Hawaii
+Honouliuli|Honolulu|96706
+Honuapo|Hawaii|96772
+Hoʻokena|Hawaii|96704
+Hoolehua|Maui|96729
+Hoolehua-Palaau|Maui
+Hoopuloa|Hawaii
+Hopoi Village|Maui|96793
+Hopuwai|Hawaii
+Hospital Village|Maui|96784
+Huehue|Hawaii|96725
+Huehue Ranch|Hawaii
+Huelo|Maui|96708
+Humuula|Hawaii
+Hyashi Village|Maui
+Hyatt|Maui|96761
+Iroquois Point|Honolulu|96706
+Iwasaki Camp|Hawaii|96760
+Iwilei|Honolulu
+Japanese Village One|Maui
+Kaaawa|Honolulu|96730
+Kaalaea|Honolulu|96744
+Kaalawai|Honolulu
+Kaalualu|Hawaii
+Kaana|Kauai
+Kaanapali|Maui|96761
+Kaapahu|Hawaii|96776
+Kaau|Hawaii
+Kaauhuhu Homesteads|Hawaii|96719
+Kaawaloa|Hawaii
+Kaawanui|Kauai|96769
+Kaawanui Village|Kauai
+Kaeleku|Maui
+Kaena Point Facility|Honolulu|96791
+Kahakuloa|Maui|96793
+Kahala|Honolulu
+Kahaluʻu|Hawaii|96740
+Kahaluʻu|Honolulu|96744
+Kahaluʻu-Keauhou|Hawaii|96740
+Kahana|Honolulu|96717
+Kahana|Maui|96761
+Kahei Homesteads|Hawaii|96719
+Kaheka Village|Maui|96779
+Kahikinui|Maui
+Kahua|Hawaii|96755
+Kahuku|Hawaii|96722
+Kahuku|Honolulu|96731
+Kahuku Ranch|Hawaii
+Kahului|Maui|96732
+Kahului Airport|Maui|96732
+Kaiaakea|Hawaii|96773
+Kailiili|Maui
+Kailua|Hawaii|96740
+Kailua|Honolulu|96734
+Kailua|Maui|96708
+Kailua Kona|Hawaii|96740
+Kailua Village|Maui
+Kai Malino|Hawaii|96704
+Kaimu|Hawaii|96778
+Kaimuki|Honolulu|96816
+Kainaliu|Hawaii|96750
+Kainalu|Maui|96748
+Kaiwiki|Hawaii|96720
+Kakio|Maui
+Kalae|Maui|96729
+Kalaheo|Kauai|96741
+Kalamaula|Maui|96748
+Kalamaula|Maui
+Kalanianaole Colony|Maui
+Kalaoa|Hawaii|96781
+Kalaoa|Hawaii|96725
+Kalapana|Hawaii|96778
+Kalauao|Honolulu|96701
+Kalaupapa|Kalawao|96742
+Kalaupapa National Historical Park|Kalawao|96850
+Kalawao|Kalawao
+Kalepolepo|Maui|96753
+Kalihi|Honolulu
+Kalihi Kai|Honolulu
+Kalihiwai|Kauai|96754
+Kaloko-Honokohau National Historical Park|Hawaii|96850
+Kalopa|Hawaii
+Kalopa Mauka|Hawaii|96727
+Kaluaaha|Maui|96748
+Kaluakoi|Maui
+Kamaili|Hawaii|96778
+Kamalino|Kauai
+Kamalo|Maui|96748
+Kamaoa-Puʻueo|Hawaii
+Kamehameha Heights|Honolulu
+Kamiloloa|Maui|96748
+Kamiloloa|Maui
+Kamoku-Kapulena|Hawaii
+Kamooloa|Honolulu|96712
+Kamuela|Hawaii|96743
+Kanahena|Maui
+Kaneohe|Honolulu|96744
+Kaneohe Bay Marine Corps Air Station|Honolulu|96863
+Kaniohale|Hawaii
+Kaniahiku Village|Hawaii
+Kaonoulu|Maui
+Kapaa|Kauai|96746
+Kapaahu|Hawaii
+Kapaakea|Maui
+Kapaau|Hawaii|96755
+Kapahi|Kauai
+Kapahulu|Honolulu|96816
+Kapaia|Kauai|96715
+Kapaka|Kauai|96747
+Kapalama|Honolulu|96817
+Kapalaoa|Hawaii
+Kapalawai|Kauai
+Kapalua|Maui
+Kapapala|Hawaii|96777
+Kapehu|Hawaii|96780
+Kapoho|Hawaii
+Kapolei|Honolulu|96707
+Kapulena|Hawaii|96758
+Kapunakea|Maui|96761
+Kaʻu|Hawaii
+Kaueleau|Hawaii
+Kaukohoku|Hawaii
+Kaumakani|Kauai|96747
+Kaumalapau|Maui|96763
+Kaumana|Hawaii|96720
+Kaumana|Hawaii
+Kaunakakai|Maui|96748
+Kaunalewa|Kauai
+Kaunene|Hawaii
+Kaupakulua|Maui|96708
+Kaupo|Maui|96713
+Kaupulehu|Hawaii
+Kawaihae|Hawaii|96743
+Kawaihau|Kauai|96746
+Kawailiula|Hawaii
+Kawailoa|Honolulu|96712
+Kawailoa Beach|Honolulu|96712
+Kawainui|Hawaii|96783
+Kawanui|Hawaii|96750
+Kawela|Honolulu|96731
+Kawela|Maui
+Kawela Bay|Honolulu
+Keaalu|Honolulu
+Keaʻau|Hawaii|96749
+Keaau Camp|Hawaii|96749
+Keaau Ranch|Hawaii|96749
+Ke-ahole Airport|Hawaii|96743
+Keahua|Maui
+Kealahou|Maui|96790
+Kealakehe|Hawaii|96740
+Kealakekua|Hawaii|96750
+Kealakomo|Hawaii
+Kealapuali|Hawaii
+Kealia|Hawaii
+Kealia|Kauai|96751
+Keamuku|Hawaii
+Keanae|Maui|96708
+Keanae|Maui
+Keanakolu|Hawaii
+Keanapaakai|Hawaii
+Keauhou|Hawaii|96739
+Keaukaha|Hawaii|96720
+Keaukaha|Hawaii
+Keawaiki|Hawaii
+Keawakapu|Maui|96753
+Keawanui|Kauai
+Keeaumoku|Honolulu
+Keehia|Hawaii|96774
+Keei|Hawaii|96726
+Keelinawi|Kauai
+Keelinawili|Kauai
+Kehena|Hawaii|96778
+Kekaha|Kauai|96752
+Kekaha|Kauai
+Kelawea|Maui|96761
+Keokea|Hawaii|96704
+Keokea|Maui|96790
+Keolu Hills|Honolulu|96734
+Keomuku|Maui
+Keoneoio|Maui
+Keoniki|Hawaii
+Kepuhi|Maui
+Kewalo-Papakolea|Honolulu
+Kiekie|Kauai
+Kihalani Homestead|Hawaii|96780
+Kihei|Maui|96753
+Kiholo|Hawaii
+Kii|Kauai
+Kilauea|Kauai|96754
+Kilauea Camp|Kauai
+Kilauea Military Camp|Hawaii|96718
+Kilauea Settlement|Hawaii|96785
+Kiolakaa Keaa Homesteads|Hawaii|96772
+Kipahulu|Maui|96713
+Kipu|Kauai|96766
+Kipu|Maui|96757
+Kipuka Nahuaopala|Hawaii
+Kipuka Nene|Hawaii
+Koae|Hawaii
+Koali|Maui|96713
+Koele|Maui|96763
+Kohala|Hawaii
+Kohala Mill|Hawaii
+Koheo|Maui
+Kokee|Kauai|96752
+Kokee Air Force Station|Kauai|96752
+Kokohahi|Honolulu|96744
+Kokokahi|Honolulu
+Kokomo|Maui|96708
+Kolo|Hawaii|96704
+Koloa|Kauai|96756
+Koloa Mill|Kauai
+Komakawai|Hawaii
+Kona|Hawaii
+Kona International Airport|Hawaii|96743
+Koolauloa|Honolulu
+Koolaupoko|Honolulu
+Kualapuu|Maui|96757
+Kualoa|Honolulu|96730
+Kuau|Maui|96779
+Kuhio Village|Hawaii|96743
+Kuhua|Maui|96761
+Kuiaha|Maui
+Kukaiau|Hawaii|96776
+Kukaiau Ranch|Hawaii
+Kukanono|Honolulu|96734
+Kukiʻo|Hawaii|96740
+Kukui|Hawaii|96771
+Kukuihaele|Hawaii|96727
+Kukuiula|Kauai|96756
+Kukui Village|Hawaii|96774
+Kula|Maui|96790
+Kulani Project|Hawaii|96720
+Kuliouou|Honolulu
+Kumukumu|Kauai|96751
+Kunia|Honolulu|96759
+Kunia Camp|Honolulu
+Kupolo|Kauai|96766
+Kurtistown|Hawaii|96760
+Laeapuki|Hawaii
+Lahaina|Maui|96761
+Lahainaluna|Maui
+Lahuipuaa|Hawaii
+Laʻie|Honolulu|96762
+Lalakoa|Maui
+Lalamilo|Hawaii
+Lalamilo|Hawaii
+Lanai Airport|Maui
+Lanaʻi|Maui
+Lanaʻi City|Maui|96763
+Laniakea|Hawaii
+Lanikai|Honolulu|96734
+Lanikai Heights|Honolulu|96734
+Launiupoko|Maui
+Laupahoehoe|Hawaii|96764
+Lawai|Kauai|96765
+Leahi|Kauai
+Leilani Estates|Hawaii
+Lewiston|Hawaii
+Libbyville|Honolulu
+Libby-Waipio|Honolulu
+Lihue|Kauai|96766
+Lopa|Maui
+Lower Halawa|Honolulu
+Lower Paia|Maui|96779
+Lower Village|Honolulu|96706
+Lower Village Three|Maui
+Lualualei|Honolulu|96792
+Lualualei|Honolulu
+Lualualei Homesteads|Honolulu|96792
+Lualualei Naval Magazine|Honolulu|96792
+Lunaville|Maui|96761
+Maalaea|Maui|96793
+Maalehu|Maui
+McGerrow Village|Maui|96784
+Mcgrew Point|Honolulu|96701
+Mahaiula|Hawaii
+Mahana|Maui
+Mahinahina Camp|Maui
+Mahinui|Honolulu
+Mahukona|Hawaii
+Maili|Honolulu|96792
+Makaha|Honolulu|96792
+Makahalau|Hawaii
+Makaha Valley|Honolulu
+Makakilo|Honolulu|96706
+Makakilo City|Honolulu
+Makakupia|Maui
+Makalawena|Hawaii
+Makapala|Hawaii|96711
+Makawao|Maui|96768
+Makaweli|Kauai|96769
+Makena|Maui|96753
+Makiki|Honolulu|96822
+Makiki Heights|Honolulu
+Makole|Kauai
+Makuu|Hawaii
+Mala|Maui|96761
+Malae|Honolulu
+Maluhia Camp|Maui
+Mana|Kauai|96752
+Manoa|Honolulu|96822
+Marconi Area|Honolulu|96731
+Market|Honolulu
+Maui Mall|Maui|96732
+Mauka Loa|Hawaii|96783
+Maulua|Hawaii|96780
+Maunalani Heights|Honolulu
+Maunaloa|Maui|96770
+Mauna Loa|Maui
+Maunalua|Honolulu
+Maunawai|Honolulu
+Maunawili|Honolulu|96734
+Meyer Camp|Hawaii
+Middle Moaula Camp|Hawaii
+Middle Village Three|Maui
+Mikilua|Honolulu|96792
+Mililani Town|Honolulu|96789
+Mill Camps|Honolulu|96791
+Milolii|Hawaii|96726
+Milo Village|Hawaii|96774
+Moanalua|Honolulu
+Moiliili|Honolulu|96814
+Moiliili|Honolulu
+Mokae|Maui
+Mokaoku|Hawaii|96720
+Mokapu|Honolulu
+Mokulau|Maui
+Mokuleia|Honolulu|96791
+Mokuleia Beach Lots|Honolulu
+Moloaa Bay|Kauai
+Molokai Airport|Maui|96748
+Monohaa|Hawaii
+Moomomi|Maui
+Mopua|Maui
+Mountain View|Hawaii|96771
+Muolea|Maui|96713
+Naalehu|Hawaii|96772
+Nahiku|Maui
+Nanakuli|Honolulu|96792
+Nanakuli|Honolulu
+Nanawale Estates|Hawaii
+Napili|Maui|96761
+Napili-Honokowai|Maui
+Napoʻopoʻo|Hawaii|96704
+Nashiwa Village|Maui|96779
+Naval Air Station|Honolulu|96706
+Navy Cantonment|Honolulu|96818
+Navy Terminal|Honolulu|96818
+Nawiliwili|Kauai|96766
+Nienie|Hawaii
+Niʻihau|Kauai
+Nine Miles|Hawaii|96749
+Ninole|Hawaii|96773
+Niu|Honolulu
+Niulii|Hawaii|96711
+Niumalu|Kauai|96766
+Niuvalley|Honolulu
+Niu Village|Hawaii|96744
+Nonopahu|Kauai|96769
+Nonopahu Village|Kauai
+Nonopapa|Kauai
+North Hilo|Hawaii
+North Kohala|Hawaii
+North Kona|Hawaii
+Numila|Kauai|96705
+Nuu|Maui
+Ocean View|Hawaii|96737
+Ohiapili|Maui
+Oiamoi|Kauai
+Okoe|Hawaii|96704
+Olaa|Hawaii|96785
+Olinda|Maui|96768
+Olomana|Honolulu|96734
+Olowalu|Maui|96761
+Omao|Kauai|96756
+Omapio|Maui|96790
+Oneula Beach|Honolulu
+Onomea|Hawaii|96781
+Ookala|Hawaii|96774
+Opaeula Camp 3|Honolulu|96712
+Opihikao|Hawaii|96778
+Orchidlands Estates|Hawaii|96760
+Orpheum Village|Maui|96779
+Paauhau|Hawaii|96775
+Paauhau Mauka|Hawaii|96727
+Paauilo|Hawaii|96776
+Pacific Heights|Honolulu
+Pacific Palisades|Honolulu|96782
+Pahala|Hawaii|96777
+Pahoa|Hawaii|96778
+Pahoehoe|Hawaii|96704
+Paholoi|Maui
+Paia|Maui|96779
+Pakala Village|Kauai
+Palama|Honolulu
+Palani Junction|Hawaii|96725
+Palehua|Honolulu
+Paliaalii|Hawaii
+Palihooukapapa|Hawaii
+Panaewa|Hawaii|96720
+Panaewa|Hawaii
+Papa|Hawaii|96704
+Papa|Hawaii|96704
+Papaaloa|Hawaii|96780
+Papaikou|Hawaii|96781
+Papaloa|Hawaii
+Papaloa|Kauai
+Pauahi|Hawaii
+Pauahi|Hawaii
+Paukaa|Hawaii|96720
+Paukukalo|Maui|96793
+Paukukalo|Maui
+Paumalu|Honolulu|96712
+Pauwalu|Maui
+Pauwela|Maui|96708
+Pawaa|Honolulu|96814
+Pawaina|Hawaii
+Peahi|Maui|96708
+Pearl City|Honolulu|96782
+Pearl City Heights|Honolulu|96782
+Pearl Harbor Naval Cantonment|Honolulu|96818
+Pearl Harbor Naval Public Works Center|Honolulu|96860
+Pearl Harbor Naval Shipyard|Honolulu|96860
+Pearl Harbor Naval Station|Honolulu|96860
+Pearl Harbor Naval Submarine Base|Honolulu|96860
+Pearl Harbor Naval Supply Center|Honolulu|96860
+Pearl Ridge|Honolulu|96701
+Pelekunu|Maui
+Pepeekeo|Hawaii|96783
+Pepeekeo Mill Camp|Hawaii|96783
+Pihana|Maui|96793
+Pihonua|Hawaii
+Piihonua|Hawaii|96720
+Pohakea Homesteads|Hawaii|96776
+Pohakuloa Training Area|Hawaii|96556
+Pohakupu|Honolulu|96734
+Pohoiki|Hawaii
+Poipu|Kauai|96756
+Pokii|Kauai
+Pomoho|Honolulu|96786
+Ponohawai|Hawaii
+Port Allen|Kauai|96705
+Portlock|Honolulu
+Princeville|Kauai|96722
+Pua Akala|Hawaii
+Puako|Hawaii|96743
+Pualaa|Hawaii
+Pualaea Homestead|Hawaii|96764
+Pua Loke|Kauai|96766
+Puhi|Kauai|96766
+Pukalani|Maui|96788
+Pukoo|Maui|96748
+Pulehu|Maui|96790
+Puna|Hawaii|Various
+Punaluu|Hawaii|96777
+Punaluu|Honolulu|96717
+Punaluu Kahawai|Hawaii
+Puohala Village|Honolulu|96744
+Puopelu|Hawaii
+Pupukea|Honolulu|96712
+Puʻuanahulu|Hawaii|96725
+Puu Anahulu Homesteads|Hawaii
+Puʻueo|Hawaii|96720
+Pu'uhonua O Honaunau National Historical Park|Hawaii|96726
+Puu Hue|Hawaii|96719
+Puuhue Ranch|Hawaii
+Puuiki|Maui|96713
+Puukapu|Hawaii
+Puʻukohola Heiau National Historic Site|Hawaii|96743
+Puukolii|Maui|96761
+Puunene|Maui|96784
+Puunoa|Maui|96761
+Puunui|Honolulu
+Puuohala|Maui|96793
+Puuohala Village|Maui
+Puu Waawaa Ranch|Hawaii|96740
+Puuwai|Kauai|96769
+Ranch Camp|Honolulu
+Renton Village|Honolulu|96706
+Royal Hawaiian|Honolulu|96815
+Royal Kunia-Village Park|Honolulu
+Russian Village|Maui
+Saint Louis Heights|Honolulu
+Saki Mana|Kauai
+Sam Sing Village|Maui
+Sand Hills|Maui
+Schofield Barracks|Honolulu|96786
+School Village|Maui|96779
+Shafter Flats|Honolulu
+South Kohala|Hawaii|Various
+South Kona|Hawaii|Various
+Spanish B Village|Maui|96784
+Spreckelsville|Maui|96779
+Store Village|Maui|96779
+Submarine Base|Honolulu|96818
+Sunset Beach|Honolulu|96712
+Tantalus|Honolulu
+Tenney|Honolulu|96706
+Tenney Village|Honolulu
+Timber Town|Honolulu|96826
+Tripler Army Medical Center|Honolulu|96819
+Ualapue|Maui|96748
+Ualapue|Maui
+Ulaino|Maui
+Ulumalu|Maui|96708
+Ulupalakua|Maui|96790
+Ulupalakua|Maui
+Umikoa|Hawaii|96776
+Umipaa|Maui
+Union Mill|Hawaii|96755
+University|Honolulu|96844
+Upper Village Three|Maui
+Varona Village|Honolulu|96706
+Village 2|Kauai|96705
+Village 3|Kauai|96705
+Village 7|Kauai|96705
+Village 10|Maui|96779
+Village Eight|Maui
+Village Five|Maui
+Village Four|Maui
+Village Park|Honolulu
+Village Six|Maui
+Village Thirteen|Maui
+Village Two|Maui
+Volcano|Hawaii|96785
+Volcano House|Hawaii|96718
+Wahiawa|Honolulu|96786
+Wahiawa|Kauai|96705
+Wahiawa Naval Communications Station|Honolulu|96786
+Wahilauhue|Maui
+Waiahole|Honolulu|96744
+Waiahukini|Hawaii
+Waiaka|Hawaii
+Waiakea|Hawaii|96720
+Waiakea Camps|Hawaii|96720
+Waiakea Houselots|Hawaii|96720
+Waiakoa|Maui
+Waialae|Honolulu
+Waialae-kahala|Honolulu|96816
+Waialee|Honolulu|96712
+Waialua|Honolulu|96791
+Waialua|Maui|96748
+Waialua Mill|Honolulu|96791
+Waianae|Honolulu|96792
+Waianae Homesteads|Honolulu|96792
+Waianae Uka|Honolulu|96792
+Waiau|Honolulu|96782
+Waiehu|Maui|96793
+Waiehu|Maui
+Waiehu Village|Maui|96793
+Waihee|Maui|96793
+Waihee-Waiehu|Maui|96793
+Waihee-Waikapu|Maui
+Waihou|Hawaii
+Waikane|Honolulu|96744
+Waikapu|Maui|96793
+Waikapuna|Hawaii
+Waikapu Reservoir Village|Maui|96793
+Waikele|Honolulu|96797
+Waikii|Hawaii
+Waikiki|Honolulu|96815
+Waikoloa Village|Hawaii|96743
+Waikoloa-Wai ale ale|Hawaii
+Waikui|Hawaii
+Wailau, Molokai|Maui
+Wailea|Hawaii|96710
+Wailea|Maui
+Wailua|Kauai|96746
+Wailua|Maui|96708
+Wailuā Homesteads|Kauai
+Wailua House Lots|Kauai
+Wailua-Anahola|Kauai
+Wailuku|Maui|96793
+Wailuku Heights|Maui
+Wailupe|Honolulu
+Waimalu|Honolulu|96701
+Waimanalo|Honolulu|96795
+Waimanalo Beach|Honolulu|96795
+Waimane Home|Honolulu|96782
+Waimanu|Hawaii
+Waimea|Hawaii|96743
+Waimea|Honolulu|96712
+Waimea|Kauai|96796
+Waimea-Kohala Airport|Hawaii|96743
+Wainaku|Hawaii|96720
+Waineʻe|Maui|96761
+Wainiha|Kauai|96714
+Waiʻōhinu|Hawaii|96772
+Waipahoehoe|Hawaii
+Waipahu|Honolulu|96797
+Waipiʻo|Hawaii|96758
+Waipiʻo|Honolulu
+Waipio Acres|Honolulu|96786
+Waipouli|Kauai|96746
+Waipunalei Homesteads|Hawaii|96746
+Weliweli|Hawaii
+Weloka|Hawaii
+Wheeler Army Airfield|Honolulu|96854
+Whitmore Village|Honolulu|96786
+Wilhelmina Rise|Honolulu
+Woodlawn|Honolulu
+Wood Valley Homesteads|Hawaii|96777
+Yung Hee Village|Maui
