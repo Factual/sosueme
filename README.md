@@ -7,7 +7,7 @@ The jar is available on Clojars at http://clojars.org/factual/sosueme .
 Include it in your project.clj :dependencies:
 
 ````clojure
-[factual/sosueme "0.0.6"]
+[factual/sosueme "0.0.7"]
 ````
 
 # Contents
@@ -113,6 +113,20 @@ Returns the Unix epoch value for N minutes ago. Example:
 
 ````clojure
 (minutes-ago 25)
+````
+
+## txt namespace
+
+Text handling stuff.
+
+### <tt>pretty</tt>
+
+Uses Clojure's pprint to return a prettily formatted String representation of data, including line breaks for readability.
+
+Example use:
+
+````clojure
+(println (pretty {:a "b" :b "this is b it is a long thing" :c {:x "X" :y '(this is a long list of things)}}))
 ````
 
 # License

@@ -1,3 +1,7 @@
+## 0.0.7
+
+ * Added txt ns, with pretty
+
 ## 0.0.6
 
  * Added hawaii ns, with newname
