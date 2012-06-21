@@ -1,3 +1,7 @@
+## 0.0.8
+
+ * Added druid
+
 ## 0.0.7
 
  * Added txt ns, with pretty
