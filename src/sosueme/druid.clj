@@ -7,12 +7,19 @@
 
 (def TIME-FORMAT (formatter "yyMMdd-HHmmss" (default-time-zone)))
 (def MILL-FORMAT (formatter "SSS" (default-time-zone)))
+(def PREFIX-MAX 10)
+
+
+(defn prefix-sub [s]
+  (if (> (.length s) PREFIX-MAX)
+    (.substring s 0 PREFIX-MAX)
+    s))
 
 ;;TODO: research the worst case of no good local hostname
 (defonce ME
   (->
    (net/local-hostname)
-   (.substring 0 10)
+   prefix-sub
    (.toLowerCase)))
 
 (defn druid
