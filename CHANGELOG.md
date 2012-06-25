@@ -1,3 +1,7 @@
+## 0.0.9
+
+ * Upgraded Clojure from 1.3.0 to 1.4.0
+
 ## 0.0.8
 
  * Added druid
