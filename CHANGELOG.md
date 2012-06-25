@@ -1,3 +1,11 @@
+## 0.0.11
+
+ * Fix druid syntax bug
+
+## 0.0.10
+
+ * Fix druid substring bug
+
 ## 0.0.9
 
  * Upgraded Clojure from 1.3.0 to 1.4.0
