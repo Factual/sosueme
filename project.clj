@@ -1,4 +1,4 @@
-(defproject factual/sosueme "0.0.11"
+(defproject factual/sosueme "0.0.12"
   :description "A collection of Clojure utilities"
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [fs "1.0.0"]

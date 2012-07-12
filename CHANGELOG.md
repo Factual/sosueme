@@ -1,3 +1,7 @@
+## 0.0.12
+
+ * Added thread ns, with with-thread-name
+
 ## 0.0.11
 
  * Fix druid syntax bug
