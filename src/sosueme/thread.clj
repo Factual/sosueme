@@ -7,6 +7,6 @@
   `(let [thread# (Thread/currentThread)
         old-name# (.getName thread#)]
     (.setName thread# ~name)
-    (let [ret# (do ~@body)]
-       (.setName thread# old-name#)
-       ret#)))
+    (try
+      (do ~@body)
+      (finally (.setName thread# old-name#)))))
