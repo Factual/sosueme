@@ -10,3 +10,8 @@
     (try
       (do ~@body)
       (finally (.setName thread# old-name#)))))
+
+(defmacro future-with-thread-name
+  "Runs body as a future, using name as the thread name."
+  [name & body]
+  `(future (with-thread-name ~name ~@body)))
