@@ -1,3 +1,7 @@
+## Unreleased
+
+ * Added memoize ns, with memo
+
 ## 0.0.13
 
  * Added thread/future-with-thread-name
