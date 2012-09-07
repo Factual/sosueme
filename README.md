@@ -6,9 +6,9 @@ The jar is available on Clojars at http://clojars.org/factual/sosueme .
 
 Include it in your project.clj :dependencies:
 
-````clojure
-[factual/sosueme "0.0.13"]
-````
+```clojure
+[factual/sosueme "0.0.14"]
+```
 
 # Contents
 
@@ -23,9 +23,9 @@ Simple convenience functions for loading in file and resource based configuratio
 Takes a path to a file on the classpath, interprets the contents of the file as Clojure data, and
 returns the result. Example:
 
-````clojure
+```clojure
 (println (:host (load-when "myconf.clj")))
-````
+```
 
 ### <tt>load-file!</tt>
 
@@ -45,18 +45,18 @@ Returns all configuration data that was loaded via <tt>load-file!</tt>.
 
 Say you have a file called myconf.clj with this content...
 
-````clojure
+```clojure
 {:host "my.server.com"
  :port 8081}
-````
+```
 
 ...then your app could do this:
 
-````clojure
+```clojure
 (conf/load-file! "myconf.clj")
 (let [host (conf/get-key :host)]
   ... )
-````
+```
 
 ## hawaii namespace
 
@@ -66,10 +66,10 @@ Hawaiian style functions!
 
 Example:
 
-````clojure
+```clojure
 > (repeatedly 6 newname)
 ("kiwihei" "nehe" "naimaiku" "lahehei" "wenani" "haikimi")
-````
+```
 
 ## io namespace
 
@@ -79,9 +79,9 @@ I/O stuff, e.g. load content from the classpath.
 
 Slurps content from the classpath. Example:
 
-````clojure
+```clojure
 (slurp-cp "somefile.txt")
-````
+```
 
 ## net namespace
 
@@ -111,9 +111,9 @@ Returns the Unix epoch value for the current time.
 
 Returns the Unix epoch value for N minutes ago. Example:
 
-````clojure
+```clojure
 (minutes-ago 25)
-````
+```
 
 ## txt namespace
 
@@ -125,9 +125,9 @@ Uses Clojure's pprint to return a prettily formatted String representation of da
 
 Example use:
 
-````clojure
+```clojure
 (println (pretty {:a "b" :b "this is b it is a long thing" :c {:x "X" :y '(this is a long list of things)}}))
-````
+```
 
 # License
 
