@@ -1,3 +1,8 @@
+## 0.0.14
+
+ * Added memoize ns, with memo
+ * Added conf/dot-factual
+
 ## 0.0.13
 
  * Added thread/future-with-thread-name
