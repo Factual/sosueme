@@ -11,18 +11,22 @@
    Then your app could do this:
    ...
    (conf/load-file! \"myconf.clj\")
-   (let [host (conf/get-key :host)] ... )"
+   (let [host (conf/get-key :host)] ... )
 
+   Also knows how to parse configuration data out of .factual files. For
+   example:
+     (conf/dot-factual \"factual-auth.yaml\")"
   (:use [sosueme.io :as sio])
-  (:use [fs.core :only (exists?)])
-  (:use [clojure.tools.logging :only (info debug error)]))
-  
-(defn load-when 
+  (:use [clojure.tools.logging :only (info debug error)])
+  (:require [clj-yaml.core :as yaml]
+            [fs.core :as fs]))
+
+(defn load-when
   "If path exists in the present working directory or on the classpath,
    returns the data structure represented in the file at path. Otherwise
    returns nil."
   [path]
-  (if (exists? path)
+  (if (fs/exists? path)
     (do
       (info "conf.load-when: loading conf from file at" path)
       (read-string (slurp path)))
@@ -49,7 +53,19 @@
   "Returns the full configuration hashmap that has been loaded."
   [] *conf*)
 
-(defn show 
+(defn show
   "Convenience fn to print conf to stdout"
   []
   (info "conf.show: conf:" *conf*))
+
+(defn dot-factual
+  "Returns the data parsed from yaml-file, which is assumed to live under
+   our standard ~/.factual directory.
+
+   Example usage:
+   (dot-factual \"factual-auth.yaml\")"
+  [yaml-file]
+  (yaml/parse-string (slurp
+                      (-> (fs/home)
+                          (fs/file ".factual")
+                          (fs/file yaml-file)))))
