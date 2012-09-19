@@ -63,9 +63,10 @@
                                                           keywords))
         keyword-defaults           (apply concat (map-keywords (fn [k v & rest] [k v]) keywords))
 
-        positional-width           (reduce max (map (comp count str) positional-args))
-        keyword-width              (reduce max (map-keywords (fn [k v & rest] (count (str k " " v)))
-                                                             keywords))
+        positional-width           (reduce max 0 (map (comp count str) positional-args))
+        keyword-width              (reduce max 0 (map-keywords (fn [k v & rest]
+                                                                 (count (str k " " v)))
+                                                               keywords))
 
         positional-docstring       (when-not (empty? positional-docs)
                                      (str "Required arguments:\n"
