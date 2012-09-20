@@ -43,7 +43,7 @@
                                      (cons "" docstring-args-and-body)
                                      docstring-args-and-body)
         [positionals keywords]     (split-with (complement keyword?) formals)
-        positional-args            (filterv symbol? positionals)
+        positional-args            (vec (filter symbol? positionals))
         positional-docs            (into {} (map vec (filter #(and (symbol? (first %))
                                                                    (string? (second %)))
                                                              (partition 2 1 positionals))))
