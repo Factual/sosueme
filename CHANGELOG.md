@@ -1,3 +1,7 @@
+## 0.0.15
+
+ * Added throwables, with stack-trace-str
+
 ## 0.0.14
 
  * Added memoize ns, with memo

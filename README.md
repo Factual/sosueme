@@ -129,6 +129,19 @@ Example use:
 (println (pretty {:a "b" :b "this is b it is a long thing" :c {:x "X" :y '(this is a long list of things)}}))
 ```
 
+## throwables namespace
+
+### <tt>stack-trace-str</tt>
+
+Returns, as a String, the formatted stack trace from a throwable. Example use:
+
+```clojure
+;; Assuming you have an Exception instance, e
+(let [msg (stack-trace-str e)]
+  ;; do something with msg, such as put it in a log
+)
+```
+
 # License
 
 The use and distribution terms for this software are covered by the
