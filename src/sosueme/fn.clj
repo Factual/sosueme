@@ -21,6 +21,14 @@
   4. You can use the default value for a keyword argument by passing the value defnk-default. This
      allows you to chain defnk invocations and write the default values only once.
 
+  As an exception to note (4), you can add metadata to change which value is used to trigger the
+  default case. To do this, attach a metadata map that contains the :default-on key; for example:
+
+  (defnk ^{:default-on :foo} f [:a 5]    ; invoke this with :a :foo to get the default value of 5
+    ...)
+
+  A shorthand macro, defnk*, sets :default-on to nil and is otherwise identical to defnk.
+
   For example:
 
   > (defnk foo
@@ -43,11 +51,12 @@
   ([xs ys margin :maximum 5 :minimum 4 :variance 0.01])"
 
   [fn-name & docstring-args-and-body]
-  (let [[docstring formals & body] (if-not (string? (first docstring-args-and-body))
+  (let [default-on                 (get (meta fn-name) :default-on defnk-default)
+        [docstring formals & body] (if-not (string? (first docstring-args-and-body))
                                      (cons "" docstring-args-and-body)
                                      docstring-args-and-body)
         [positionals keywords]     (split-with (complement keyword?) formals)
-        positional-args            (vec (filter symbol? positionals))
+        positional-args            (filterv symbol? positionals)
         positional-docs            (into {} (map vec (filter #(and (symbol? (first %))
                                                                    (string? (second %)))
                                                              (partition 2 1 positionals))))
@@ -66,10 +75,10 @@
                                                           keywords))
         keyword-defaults           (apply concat (map-keywords (fn [k v & rest] [k v]) keywords))
         scoped-defaults            (into {} (map-keywords (fn [k v & [doc]] [(symbol (name k))
-                                                                             defnk-default])
+                                                                             default-on])
                                                           keywords))
         default-map-gensym         (gensym "default-map")
-        default-assignments        (mapcat #(vector % `(if (= ~% ~defnk-default)
+        default-assignments        (mapcat #(vector % `(if (= ~% ~default-on)
                                                          ~(get default-map (keyword %))
                                                          ~%))
                                            keyword-formals)
@@ -110,3 +119,9 @@
          (alter-meta! (var ~fn-name) assoc :arglists '(~(vec (concat positional-args
                                                                      (seq keyword-defaults)))))
          (var ~fn-name))))
+
+(defmacro defnk*
+  "Identical to defnk, but uses nil as a default indicator value and installs {:default-on nil} as
+  metadata on the function being defined."
+  [fn-name & docstring-args-and-body]
+  `(defnk ~(vary-meta fn-name assoc :default-on nil) ~@docstring-args-and-body))
